@@ -1,0 +1,43 @@
+{
+  "BaseUserErrorSettings": {
+    "ApproveUserEnable": true,
+    "ApproveUserEmailEnable": true,
+    "BlockUserEnable": true,
+    "BlockUserEmailEnable": true,
+    "ChangeRoleEnable": true,
+    "DeclineUserEnable": true,
+    "DeclineUserEmailEnable": true,
+    "DeleteUserEnable": true,
+    "DeleteUserEmailEnable": true,
+    "UnBlockUserEnable": true,
+    "UnBlockUserEmailEnable": true,
+    "ResetPasswordUserEnable": true,
+    "SignInEnable": true
+  },
+
+  "CSVErrorSettings": {
+    "CSVToExaminationsEnable": true,
+    "CSVToPatientsEnable": true
+  },
+  
+  "ExaminationErrorSettings": {
+    "CreateExaminationEnable": true,
+    "CreateEmailExaminationEnable": true,
+    "DeleteExaminationEnable": true,
+    "FinishExaminationEnable": true,
+    "UpdateExaminationEnable": true,
+    "UpdateEmailExaminationEnable": true
+  },
+
+  "PatientErrorSettings": {
+    "CreatePatientEnable": true,
+    "DeletePatientEnable": true,
+    "UpdatePatientEnable": true
+  },
+
+  "OTPCodesErrorSettings": {
+    "RequestLoginCodeEnable": true,
+    "RequestPasswordEnable": true,
+    "RequestRegistrationCodeEnable": true
+  }
+}
